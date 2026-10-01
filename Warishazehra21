@@ -1,0 +1,6 @@
+git init
+git add app.py
+git commit -m "V1 KhataBook - Flask + SQLite working"
+git branch -M main
+git remote add origin https://github.com/YOUR_USERNAME/khatabook-expense-tracker.git
+git push -u origin main
